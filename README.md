@@ -53,6 +53,7 @@ Saindo... Até logo!
 ### 📝 Observações/Melhorias
 - Se você adicionar mais figuras geométricas ou funcionalidades no futuro, poderá atualizá-las facilmente aqui.
 - Você pode adicionar o código das classes `Retangulo`, `Quadrado` e `Circulo` no final, ou fornecer links para o repositório onde essas classes estão.
- 
-
+---
+## 👨‍💻 Autor
+Alvarengazy
 
